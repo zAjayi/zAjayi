@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zAjayi
-- 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning React JS
+- 👀 I’m a Full-Stack Software Engineer(Django)
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me via Twitter, @whoiszemi
 
