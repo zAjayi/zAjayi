@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zAjayi
 - 👀 I’m a Full-Stack Software Engineer
-- 🌱 I’m currently learning React Native
+- 🌱 Currently learning React Native
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me via Twitter, @whoiszemi
 
